@@ -1,6 +1,8 @@
 # Arquivos, testes, e projetos realizados
+
 ---
 **OBS: Os semestres estão divididos em branches**
+
 ---
 - PYTHON
 - C
