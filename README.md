@@ -1,7 +1,7 @@
 # Arquivos, testes, e projetos realizados
 
 ---
-**OBS: Os semestres estão divididos em branches**
+**OBS: Os semestres estão divididos nas branches**
 
 ---
 - PYTHON
