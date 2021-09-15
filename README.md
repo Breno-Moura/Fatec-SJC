@@ -1,6 +1,18 @@
-# Arquivos, testes, e projetos realizados no 1º Semestre da Fatec
+# Arquivos, testes, e projetos realizados
+
+---
+- PYTHON
+- C
+- PORTUGOL STUDIO
+
+---
+##tags
+
 - Programinhas simples
 - Resolução de problemas
 - Leitura de arquivos em python
 - Busca binária
-- Projeto Final - Recurso para ver o gasto de energia residencial
+- Projetos
+- matriz
+- recursividade
+- operadores
