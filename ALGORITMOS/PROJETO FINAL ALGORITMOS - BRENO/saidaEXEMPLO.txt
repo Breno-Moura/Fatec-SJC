@@ -1,0 +1,10 @@
+############-APARELHOS-############
+lâmpada = 48.0 kW/mês
+computador = 45.0 kW/mês
+chuveiro = 216.0 kW/mês
+microondas = 60.0 kW/mês
+#############-CONSUMO-#############
+Consumo Geral Mensal = 369.0 kW/mês
+Valor do consumo geral em dinheiro = R$ 169.56
+##############-BUSCA-##############
+Resultado: 45.0
