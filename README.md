@@ -6,7 +6,7 @@
 - PORTUGOL STUDIO
 
 ---
-##tags
+#tags
 
 - Programinhas simples
 - Resolução de problemas
