@@ -1,4 +1,0 @@
-lampada 2 100 8
-computador 1 150 10
-chuveiro 1 7200 1
-microondas 1 2000 1
